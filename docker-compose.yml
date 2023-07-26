@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : raj2003/notes-app:latest
+     image : raj2003/notess-app:latest
      ports :
-         - "8001:8001"
+         - "8000:8000"
